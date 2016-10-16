@@ -33,6 +33,7 @@ h2{
 a{
 	text-decoration: none;
 	color: #666666;
+	margin-right: 6px;
 }
 
 footer{
@@ -40,10 +41,19 @@ footer{
 	text-align: center;
 	border-top: 6px solid #4aaaa5;
 	width: 100%;
+	bottom: 0;
 	height: 45px;
 	padding-top: 25px;
 	margin-top: 20px;
 	clear: both;
+}
+
+input{
+	margin-bottom: 20px;
+}
+
+form, p{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 .floatLeft{
@@ -105,8 +115,29 @@ footer{
 	padding-top: 5px;
 	}
 
+#submit{
+	background-color: #4aaaa5;
+	height: 40px;
+	width: 25%;
+	border: solid #4aaaa5;
+	color: #ffffff;
+	font-size: 20px;
+
+}
+
 .icons{
 	height: 60px;
 	width: 60px;
 }
+
+.largertextbox{
+	height: 200px;
+	width: 100%;
+}
+
+.textbox{
+	margin-top: 5px;
+}
+
+
 
