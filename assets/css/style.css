@@ -139,5 +139,26 @@ form, p{
 	margin-top: 5px;
 }
 
+.portfolioImg{
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	margin-left: 10px;
+	margin-right: 0px;
+	position: relative;
+	display: inline-block;
+}
+
+.projectname{
+	width: 200px;
+	height: 40px;
+	background-color: #4aaaa5;
+	position: relative;
+	top:-90px;
+	text-align: center;
+	color: #ffffff;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
 
 
