@@ -97,9 +97,10 @@ form, p{
 
 #main{
 	width: 52%;
+
 	background-color: #ffffff;
 	border: solid #dddddd;
-	padding-bottom: 30px;
+	/*padding-bottom: 5px;*/
 	padding-right: 30px;
 	padding-left: 30px;
 	padding-top: 10px;
@@ -143,6 +144,10 @@ form, p{
 
 .textbox1{
 	margin-top: 60%;
+}
+
+.textbox2{
+	margin-top: 85%;
 }
 
 .portfolioImg{
