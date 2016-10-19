@@ -1,6 +1,7 @@
 body{
 	margin: 0px;
 	background-color: #708090;
+	position: relative;
 
 }
 
@@ -42,6 +43,7 @@ footer{
 	border-top: 6px solid #4aaaa5;
 	width: 100%;
 	bottom: 0;
+	position: fixed;
 	height: 45px;
 	padding-top: 25px;
 	margin-top: 20px;
@@ -137,6 +139,10 @@ form, p{
 
 .textbox{
 	margin-top: 5px;
+}
+
+.textbox1{
+	margin-top: 60%;
 }
 
 .portfolioImg{
